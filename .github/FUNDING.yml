@@ -9,4 +9,4 @@ community_bridge: # Replace with a single Community Bridge project-name e.g., cl
 liberapay: # Replace with a single Liberapay username
 issuehunt: # Replace with a single IssueHunt username
 otechie: # Replace with a single Otechie username
-custom: ["https://www.blockchain.com/btc/address/bc1qpssfv5vhgpwtyxj6aysdl5thzleqpagwm9nges", bitcoin-address]
+custom: ["https://www.blockchain.com/btc/address/bc1qpssfv5vhgpwtyxj6aysdl5thzleqpagwm9nges", "https://www.blockchain.com/eth/address/0x38B30573DfbaE1CE32f1B3611E61c7f0D02803aA", "https://dogeblocks.com/address/DHS9xqJfdteChKiPxNjsUeUznAaZSwkt6A"]
