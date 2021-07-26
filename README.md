@@ -1,4 +1,4 @@
-# VAULT
+# VAULT ![](https://img.shields.io/badge/version-v1.1-green)
 **_VAULT_** is a repository to store and distribute various .CAD image files for 3d printing firearms and general weaponry. Read the rest of this [readme.md](https://github.com/limiteci/vault/blob/main/README.md) for further context and information.
 
 # Licence and Legal
